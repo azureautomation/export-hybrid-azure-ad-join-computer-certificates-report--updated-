@@ -1,0 +1,20 @@
+{
+    "Author": "Jorge de Almeida Pinto [MVP]",
+    "ContentSize": 7939,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/export-hybrid-azure-ad-join-computer-certificates-report-(updated)/master/Export-ADSyncToolsHybridAzureADjoinCertificateReport.ps1",
+    "DownloadCount": 495,
+    "Id": "Export-Hybrid-Azure-AD-461cd850",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 71,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2019-10-13T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "WARNING: Due to retirement of Technet Script Gallery, migrated to:https://github.com/zjorz/Public-AAD-Scripts/blob/master/Export-ADSyncToolsHybridAzureADjoinCertificateReport.ps1This script was originally posted here:\u00a0https://gallery.technet.microsoft.com/scriptcenter/Export-Hybr",
+    "Title": "Export Hybrid Azure AD Join Computer Certificates Report (Updated)",
+    "UpdatedDate": "2020-4-3T00:00:00",
+    "Url": "https://github.com/azureautomation/export-hybrid-azure-ad-join-computer-certificates-report-(updated)",
+    "UserTags": "aad connect, AADConnect, Hybrid Devices"
+}
